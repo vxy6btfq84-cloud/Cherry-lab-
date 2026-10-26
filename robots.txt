@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vxy6btfq84-cloud.github.io/Cherry-lab-/sitemap.xml
